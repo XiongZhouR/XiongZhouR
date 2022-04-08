@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @XiongZhouR
+- 👀 I’m interested in MachineLearning, math, and NLP(Natural Language Processing)
+- 🌱 I’m currently learning NLP(RE Relation Extration)
+- 📫 How to reach me (email:zhouxiong1103@126.com)
